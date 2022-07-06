@@ -1,6 +1,12 @@
 ## Hello✋. Welcome to kiyo7's GitHub
 
-# 学習記録用🗒
+# 主な開発↓
+
+### 自己紹介サイト　https://github.com/kiyo7/kiyoooooooo
+
+### シフト作成アプリ(開発中) https://github.com/kiyo7/shifty
+
+# 学習記録🗒
 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kiyo7&theme=vue)
