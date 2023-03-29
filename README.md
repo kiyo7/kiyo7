@@ -4,7 +4,6 @@
 
 ### 自己紹介サイト　https://github.com/kiyo7/kiyoooooooo
 
-### シフト作成アプリ(開発中) https://github.com/kiyo7/shifty
 
 # 学習記録🗒
 
